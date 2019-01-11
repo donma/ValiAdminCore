@@ -6,12 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Pages\Index.cshtml.cs" />
     <Compile Remove="Pages\Privacy.cshtml.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Remove="Pages\Index.cshtml" />
     <Content Remove="Pages\Privacy.cshtml" />
   </ItemGroup>
 
@@ -24,21 +22,7 @@
 
 
   <ItemGroup>
-    <None Include="wwwroot\js\bootstrap.min.js" />
-    <None Include="wwwroot\js\jquery-3.2.1.min.js" />
     <None Include="wwwroot\js\main.js" />
-    <None Include="wwwroot\js\plugins\bootstrap-datepicker.min.js" />
-    <None Include="wwwroot\js\plugins\bootstrap-notify.min.js" />
-    <None Include="wwwroot\js\plugins\chart.js" />
-    <None Include="wwwroot\js\plugins\dataTables.bootstrap.min.js" />
-    <None Include="wwwroot\js\plugins\jquery.dataTables.min.js" />
-    <None Include="wwwroot\js\plugins\jquery.vmap.min.js" />
-    <None Include="wwwroot\js\plugins\jquery.vmap.sampledata.js" />
-    <None Include="wwwroot\js\plugins\jquery.vmap.world.js" />
-    <None Include="wwwroot\js\plugins\pace.min.js" />
-    <None Include="wwwroot\js\plugins\select2.min.js" />
-    <None Include="wwwroot\js\plugins\sweetalert.min.js" />
-    <None Include="wwwroot\js\popper.min.js" />
   </ItemGroup>
 
 </Project>
