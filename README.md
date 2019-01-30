@@ -5,7 +5,7 @@
 
 
 
-A template from the internet base on Bootstrap 4 . I only re-cook to .Net Core 2.2 , add Layout and change some js sorce from CDN .
+A template from the internet base on Bootstrap 4 . I  re-cook to .Net Core 2.2 , add Layout and change some js sorce from CDN .
 
 You can give me a STAR if you think it's useful. :)
 
